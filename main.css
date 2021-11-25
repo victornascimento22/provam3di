@@ -1,0 +1,90 @@
+body {
+    border: 3px solid;
+    border-radius: 3px;
+    width:500px;
+    color:#a2a2a2;
+    font-family:'engel-light-ltd';
+    font-size: 30px;
+    font-weight: 900;
+      
+
+}
+
+
+.globo {
+
+        margin-top: 10px;
+        margin-left: 33px ;
+        color:#a2a2a2;
+        
+}
+
+
+.top {
+
+    border: 3px solid;
+    margin : 10px;
+    border-radius:3px;
+    color:#eb49af;
+
+
+}
+
+.fontetopo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+
+}
+
+.meio {
+
+ border:3px solid;
+ border-radius:3px;
+ margin-left:10px;
+ margin-bottom: 10px;
+ display: inline-block;
+width: 260px;
+height:350px;
+color:#b1e2d3;
+
+}
+
+.menu-1 {
+    float:right;
+    border: 3px solid;
+    border-radius:3px;
+    width:200px;
+    height:350px;
+    margin-right:10px;
+    color:#b1e2d3;  
+}
+
+.footer {
+
+    border:3px solid;
+    border-radius:3px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 10px;
+    height:100px;
+    color:#ff942e;
+    
+}
+
+#fontefooter {
+    margin-top: 35px;
+    margin-bottom: px;
+    margin-left: 20px;
+    
+}
+
+@font-face {
+    font-family: 'engel-light-ltd';
+    src: url('engel-light-ltd.eot');
+    src: url('engel-light-ltd.eot?#iefix') format('embedded-opentype'),
+        url('engel-light-ltd.woff') format('woff'),
+        url('engel-light-ltd.ttf') format('truetype'),
+        url('engel-light-ltd.svg#engel-light-ltd') format('svg');
+    
+}
