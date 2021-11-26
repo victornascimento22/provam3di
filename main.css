@@ -78,13 +78,3 @@ color:#b1e2d3;
     margin-left: 20px;
     
 }
-
-@font-face {
-    font-family: 'engel-light-ltd';
-    src: url('engel-light-ltd.eot');
-    src: url('engel-light-ltd.eot?#iefix') format('embedded-opentype'),
-        url('engel-light-ltd.woff') format('woff'),
-        url('engel-light-ltd.ttf') format('truetype'),
-        url('engel-light-ltd.svg#engel-light-ltd') format('svg');
-    
-}
